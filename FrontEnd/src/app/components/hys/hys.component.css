@@ -1,4 +1,10 @@
 .row{
-    background-color: rgba(213, 219, 225, 0.995);
+    background-color: #a1b5cb;
     padding: 20px;
+}
+
+.circulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
